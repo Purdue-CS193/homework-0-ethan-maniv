@@ -1,9 +1,8 @@
 # Ethan Manivannan's First CS193 Homework
 
--The class teaches us skills that would not otherwise be taught
+
+- The class teaches us skills that would not otherwise be taught
 - It is taught by former cs students
-- Bulleted
-- List
 
 
 ## Welcome to GitHub Pages
