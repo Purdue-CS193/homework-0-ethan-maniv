@@ -1,3 +1,8 @@
+# Ethan Manivannan's First CS193 Homework
+
+-The class teaches us skills that would not otherwise be taught
+-It is taught by former cs students
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,6 +22,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+
 
 1. Numbered
 2. List
